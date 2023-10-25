@@ -185,6 +185,13 @@ body{
 
 .img a{
     
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+
     justify-items: center;
 
     margin-left: 15%;
