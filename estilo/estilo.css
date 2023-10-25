@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background-color:midnightblue;
+    background-image: linear-gradient(to right,#27355a,#26212e);
+}
+
+/*Quem sou eu */
+
+.quemsoueu{
+    
+    background-image: linear-gradient(to right,#244882,#27355a);
+    
+    color: white;
+
+    margin: 2%;
+
+    padding: 2%;
+
+}
+
+.quemsoueu h2{
+  
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+    
+    text-align: center;
+    
+    padding: 1%;
+
+}
+
+.quemsoueu  p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+
+    text-transform: inherit;
+
+    text-align: center;
+
+}
+
+.quemsoueu img{
+   margin-left: 45%;
+}
+
+/* fim da estilização do Quem sou eu */
+
+/* Começando a estilização de formação */
+
+.formacao{
+    background-image: linear-gradient(to right,#244882,#27355a);
+    
+    color: white;
+
+    margin: 2%;
+
+    padding: 2%;
+
+}
+
+.formacao h2{
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+    
+    text-align: center;
+    
+    padding: 1%;
+}
+
+.formacao p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+
+    text-transform: inherit;
+
+    text-align: center;
+
+    margin: 1%;
+}
+
+.formacao ul li {
+    list-style: none;
+}
+
+.formacao ul li a {
+
+    font-family: Arial, Verdana,'Times New Roman';
+   
+    text-decoration: none;
+
+    color: white;
+   
+   display: flex;
+
+   flex-direction: column;
+
+   align-items: center;
+}
+
+/* Fim da estilização formação */
+
+/* Começando a estilização do Experiência */
+
+.experiencia{
+    background-image: linear-gradient(to right,#244882,#27355a);
+    
+    color: white;
+
+    margin: 2%;
+
+    padding: 2%;
+}
+
+.experiencia h2{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+    
+    text-align: center;
+    
+    padding: 1%;
+}
+
+.experiencia p{
+
+     
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+
+    text-transform: inherit;
+
+    text-align: center;
+
+    margin: 1%;
+}
+
+/* Começando a estilização do projeto */
+
+.projetos{
+
+    background-image: linear-gradient(to right,#244882,#27355a);
+    
+    color: white;
+
+    margin: 2%;
+
+    padding: 2%;
+
+}
+.projetos h2{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+    
+    text-align: center;
+    
+    padding: 1%;
+}
+
+.img{
+    
+    background-color: #244882;
+
+    display: flex;
+
+    flex-direction: row;
+
+    padding: 1%;
+
+    margin: 2%;
+
+}
+
+.img a{
+    
+    justify-items: center;
+
+    margin-left: 15%;
+
+    margin-right: 15%;
+}
