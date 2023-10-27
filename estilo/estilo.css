@@ -169,6 +169,41 @@ body{
     padding: 1%;
 }
 
+.projetos button{
+
+    background-color: #27355a;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    margin: 2%;
+
+    padding: 1%;
+
+    cursor: pointer;
+    
+}
+
+button:hover{
+
+    background-color: #244882;
+
+    
+
+}
+
+.projetos button a{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: white;
+
+    text-decoration: none;
+}
+
 .rodape{
     
     background-color: #244882;
