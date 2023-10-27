@@ -169,23 +169,30 @@ body{
     padding: 1%;
 }
 
-.img{
+.rodape{
     
     background-color: #244882;
 
-    display: flex;
+    padding: 1%;
+
+    margin: 2%;
+
+   /* display: flex;
 
     flex-direction: row;
 
     padding: 1%;
 
     margin: 2%;
-
+*/
 }
 
-.img a{
+.rodape a{
+
+
+    text-align: center;
     
-    display: flex;
+    /*display: flex;
 
     flex-direction: row;
 
@@ -197,4 +204,5 @@ body{
     margin-left: 15%;
 
     margin-right: 15%;
+    */
 }
