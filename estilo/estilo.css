@@ -191,8 +191,12 @@ button:hover{
 
     background-color: #244882;
 
-    
+}
 
+section{
+    display: flex;
+
+    flex-direction: row;
 }
 
 .projetos button a{
@@ -202,6 +206,9 @@ button:hover{
     color: white;
 
     text-decoration: none;
+
+  
+    
 }
 
 .rodape{
