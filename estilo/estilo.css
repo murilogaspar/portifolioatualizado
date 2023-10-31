@@ -206,45 +206,39 @@ section{
     color: white;
 
     text-decoration: none;
-
-  
-    
 }
 
-.rodape{
+
+/*--------------------Rodape-----------------------*/
+
+footer{
     
     background-color: #244882;
 
-    padding: 1%;
-
     margin: 2%;
-
-   /* display: flex;
-
-    flex-direction: row;
 
     padding: 1%;
 
-    margin: 2%;
-*/
 }
 
-.rodape a{
+footer ul{
 
-
-    text-align: center;
-    
-    /*display: flex;
+    display: flex;
 
     flex-direction: row;
 
     justify-content: center;
 
+    
 
-    justify-items: center;
+}
 
-    margin-left: 15%;
+footer ul li{
+    
+    list-style: none;
+    
+    margin: 2%;
+   
 
-    margin-right: 15%;
-    */
+
 }
